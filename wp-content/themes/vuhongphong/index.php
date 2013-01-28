@@ -75,6 +75,15 @@
 				</div>
 				
 				<div class="slider-feature">
+					<a href="#" target="_blank"><img class="slider-image" src="<?php bloginfo('template_url') ?>/img/page1.png"></a>
+					<div class="slider-caption">
+					This is one of many projects I've worked on but for some reasons I can't give you much more information about them.
+					</div>
+					<div class="shadow">
+					<img class="slider-image" src="<?php bloginfo('template_url') ?>/img/shadow.png"></div>
+				</div>
+				
+				<div class="slider-feature">
 					<a href="http://www.tymphany.com/" target="_blank"><img class="slider-image" src="<?php bloginfo('template_url') ?>/img/tymphany.jpg"></a>
 					<div class="slider-caption">
 					Tymphany is a western-owned and operated, Asian-based designer and manufacturer of advanced acoustic solutions.
