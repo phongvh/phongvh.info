@@ -28,6 +28,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>		
 	</head>
 	<body class="landing-page wsite-theme-light wsite-page-index">
+  <?php include_once("analyticstracking.php") ?>
 	<div id="header-wrap">
         <div class="container">
             <table id="header">
