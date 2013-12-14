@@ -24,7 +24,7 @@
 		<!-- <link type="text/css" rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/bootstrap.min.css">
 		<link type="text/css" rel="stylesheet" href="<?php bloginfo('template_url') ?>/css/bootstrap-responsive.min.css"> -->
 		<link type="text/css" rel="stylesheet" href="<?php bloginfo('stylesheet_url') ?>">
-		
+		<link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.png" />
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>		
 	</head>
 	<body class="landing-page wsite-theme-light wsite-page-index">
