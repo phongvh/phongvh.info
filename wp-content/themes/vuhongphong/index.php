@@ -37,9 +37,9 @@
 				<td style="width:50%;padding:0 20px" class="wsite-multicol-col col-1">
 				
 				<h2 style="text-align:left;">A small app of my own<br></h2>
-				<a href="http://viiew.info" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/viiew.png" width="316" height="186"></a>
+				<a href="http://viiew.phongvh.info" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/viiew.png" width="316" height="186"></a>
 				<div class="description">This app is based on Geolocation API in HTML5. It allows you to show your current position and you can share that position with your friends. It helps them find you easier.
-				<a target="_blank" href="http://viiew.info">
+				<a target="_blank" href="http://viiew.phongvh.info">
 					<span>Visit page</span>
 				</a>
 				</div>
