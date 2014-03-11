@@ -2,11 +2,13 @@
 <html <?php language_attributes() ?>>
 	<head>
 		<title><?php bloginfo('name') ?> | <?php bloginfo('description') ?></title>
-		<meta content="This is homepage" name="description">
+		<meta content="I'm an expert in: PHP, MySQL, HTML (including HTML5), CSS (including CSS3), JavaScript, Jquery, Ajax, Twitter Bootstrap, Git, Solr, Redis, CodeIgniter, Wordpress, Drupal...
+My first priority is quality. What I concern is not just about accomplishment, it's about building long-term partnerships with trust, satisfaction and assurance." name="description">
 		<meta content="phongvh, vu hong phong, hong phong, phong vu, phongvu" name="keywords">
 		<meta content="Vu Hong Phong" property="og:site_name">
 		<meta content="Welcome to my world!" property="og:title">
-		<meta content="This is homepage" property="og:description">
+		<meta content="I'm an expert in: PHP, MySQL, HTML (including HTML5), CSS (including CSS3), JavaScript, Jquery, Ajax, Twitter Bootstrap, Git, Solr, Redis, CodeIgniter, Wordpress, Drupal...
+My first priority is quality. What I concern is not just about accomplishment, it's about building long-term partnerships with trust, satisfaction and assurance." property="og:description">
 		<meta content="http://phongvh.info/" property="og:url">		
 		<meta content="<?php bloginfo( 'html_type' ); ?>; charset=<?php bloginfo( 'charset' ); ?>" http-equiv="Content-Type">		    
 		
