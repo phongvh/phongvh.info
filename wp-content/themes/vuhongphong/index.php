@@ -37,9 +37,9 @@
 				<td style="width:50%;padding:0 20px" class="wsite-multicol-col col-1">
 				
 				<h2 style="text-align:left;">A small app of my own<br></h2>
-				<a href="http://viiew.phongvh.info" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/viiew.png" width="316" height="186"></a>
-				<div class="description">This app is based on Geolocation API in HTML5. It allows you to show your current position and you can share that position with your friends. It helps them find you easier.
-				<a target="_blank" href="http://viiew.phongvh.info">
+				<a href="http://vivut.com" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/vivut.png" width="316" height="186"></a>
+				<div class="description">This app is based on Google Maps API. It allows you to show your current position and you can share that position with your friends. It also allow you to create a plan for your journey and you can arrange it visually.
+				<a target="_blank" href="http://vivut.com">
 					<span>Visit page</span>
 				</a>
 				</div>
