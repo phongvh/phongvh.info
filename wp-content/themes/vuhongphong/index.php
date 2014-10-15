@@ -38,7 +38,7 @@
 				
 				<h2 style="text-align:left;">A small app of my own<br></h2>
 				<a href="http://vivut.com" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/vivut.png" width="316" height="186"></a>
-				<div class="description">This app is based on Google Maps API. It allows you to show your current position and you can share that position with your friends. It also allow you to create a plan for your journey and you can arrange it visually.
+				<div class="description">ViVut is based on Google Maps API. People usually struggle with a lot of places they want to go when they travel to a new land or country, this app allows you to list all the places on a map, and you can easily arrange, take note and manage your plan. It helps you save your time and money.
 				<a target="_blank" href="http://vivut.com">
 					<span>Visit page</span>
 				</a>
