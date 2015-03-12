@@ -33,10 +33,10 @@
 				<div><div class="wsite-multicol"><div style="margin:0 -20px" class="wsite-multicol-table-wrap">
 				<table class="wsite-multicol-table">
 				<tbody class="wsite-multicol-tbody">
-				<tr class="wsite-multicol-tr">
+				<tr class="wsite-multicol-tr" style="vertical-align:top">
 				<td style="width:50%;padding:0 20px" class="wsite-multicol-col col-1">
 				
-				<h2 style="text-align:left;">A small app of my own<br></h2>
+				<h2 style="text-align:left;">My own project<br></h2>
 				<a href="http://vivut.com" target="_blank"><img src="<?php bloginfo('template_url') ?>/img/vivut.png" width="316" height="186"></a>
 				<div class="description">ViVut is based on Google Maps API. People usually struggle with a lot of places they want to go when they travel to a new land or country, this app allows you to list all the places on a map, and you can easily arrange, take note and manage your plan. It helps you save your time and money.
 				<a target="_blank" href="http://vivut.com">
